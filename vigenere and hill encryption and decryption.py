@@ -1,7 +1,4 @@
 import numpy as np
-UID=119151556
-Last_name="devaladakere arvind"
-First_name="dhanush"
 str1=""
 str2=""
 def ver_str_enc(planetext,key):
